@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.my-widget-container {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  width: 200%;
+  height: 100%;
+}
